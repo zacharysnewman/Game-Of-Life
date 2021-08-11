@@ -11,6 +11,7 @@ sysinfo.txt
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+[Ll]ogs/
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -43,3 +44,8 @@ ehthumbs.db
 [Dd]esktop.ini
 Corridor/Library/ShaderCache/
 Corridor/Library/metadata/
+
+# ================ #
+# Project-Specific #
+# ================ #
+Flat Icons/
